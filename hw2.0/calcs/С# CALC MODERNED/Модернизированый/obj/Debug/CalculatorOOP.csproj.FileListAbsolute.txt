@@ -1,0 +1,36 @@
+C:\Users\м\source\repos\CalculatorOOP\bin\Debug\CalculatorOOP.exe.config
+C:\Users\м\source\repos\CalculatorOOP\bin\Debug\CalculatorOOP.exe
+C:\Users\м\source\repos\CalculatorOOP\bin\Debug\CalculatorOOP.pdb
+C:\Users\м\source\repos\CalculatorOOP\obj\Debug\CalculatorOOP.csprojAssemblyReference.cache
+C:\Users\м\source\repos\CalculatorOOP\obj\Debug\CalculatorOOP.Form1.resources
+C:\Users\м\source\repos\CalculatorOOP\obj\Debug\CalculatorOOP.Properties.Resources.resources
+C:\Users\м\source\repos\CalculatorOOP\obj\Debug\CalculatorOOP.csproj.GenerateResource.cache
+C:\Users\м\source\repos\CalculatorOOP\obj\Debug\CalculatorOOP.exe
+C:\Users\м\source\repos\CalculatorOOP\obj\Debug\CalculatorOOP.pdb
+C:\Users\м\Desktop\CalculatorOOP\bin\Debug\CalculatorOOP.exe.config
+C:\Users\м\Desktop\CalculatorOOP\bin\Debug\CalculatorOOP.exe
+C:\Users\м\Desktop\CalculatorOOP\bin\Debug\CalculatorOOP.pdb
+C:\Users\м\Desktop\CalculatorOOP\obj\Debug\CalculatorOOP.csprojAssemblyReference.cache
+C:\Users\м\Desktop\CalculatorOOP\obj\Debug\CalculatorOOP.Form1.resources
+C:\Users\м\Desktop\CalculatorOOP\obj\Debug\CalculatorOOP.Properties.Resources.resources
+C:\Users\м\Desktop\CalculatorOOP\obj\Debug\CalculatorOOP.csproj.GenerateResource.cache
+C:\Users\м\Desktop\CalculatorOOP\obj\Debug\CalculatorOOP.exe
+C:\Users\м\Desktop\CalculatorOOP\obj\Debug\CalculatorOOP.pdb
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\bin\Debug\CalculatorOOP.exe.config
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\bin\Debug\CalculatorOOP.exe
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\bin\Debug\CalculatorOOP.pdb
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\obj\Debug\CalculatorOOP.csprojAssemblyReference.cache
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\obj\Debug\CalculatorOOP.Form1.resources
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\obj\Debug\CalculatorOOP.Properties.Resources.resources
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\obj\Debug\CalculatorOOP.csproj.GenerateResource.cache
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\obj\Debug\CalculatorOOP.exe
+C:\Users\Molotov\Desktop\модернизированный кальк ШАРП\CalculatorOOP\obj\Debug\CalculatorOOP.pdb
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\bin\Debug\CalculatorOOP.exe.config
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\bin\Debug\CalculatorOOP.exe
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\bin\Debug\CalculatorOOP.pdb
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\obj\Debug\CalculatorOOP.csprojAssemblyReference.cache
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\obj\Debug\CalculatorOOP.Form1.resources
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\obj\Debug\CalculatorOOP.Properties.Resources.resources
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\obj\Debug\CalculatorOOP.csproj.GenerateResource.cache
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\obj\Debug\CalculatorOOP.exe
+C:\Users\Molotov\Desktop\hw2.0\calcs\С# CALC MODERNED\Модернизированый\obj\Debug\CalculatorOOP.pdb
