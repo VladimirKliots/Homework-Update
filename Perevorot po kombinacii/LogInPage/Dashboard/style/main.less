@@ -1,0 +1,41 @@
+@text-color: #D3DBE0;
+@h1-bg-color: #FFFFFF;
+@body-bg-color: #0A1A26;
+@form-bg-color: #0C202E;
+@fields-bg-color: #263845;
+@languages-bg-color: #142836;
+@text-color-dashboard-one: #79838A;
+@text-color-dashboard-two: #FF9900;
+@text-color-dashboard-different: #D1193E;
+
+@font-single: Roboto, sans-serif;
+
+
+@import "header.less";
+@import "dropUsers.less";
+@import "walletsBar.less";
+@import "bitcoin.less";
+@import "balanceHistory.less";
+@import "transactions.less";
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: @body-bg-color;
+}
+
+
+.container {
+  width: 1366px;
+  height: 620px;
+  margin: 0 auto;
+  background: #0C202E;
+}
+
+.content {
+  width: 1366px;
+  height: 564px;
+  background: @body-bg-color;
+  display: flex;
+}

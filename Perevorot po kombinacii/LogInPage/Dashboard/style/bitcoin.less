@@ -1,0 +1,124 @@
+.bitcoin-score {
+  margin-top: 48px;
+  margin-left: 28px;
+  padding-top: 16px;
+  width: 260px;
+  height: 124px;
+  border-radius: 6px;
+  background-color: @languages-bg-color;
+
+  &__numerical {
+    height: 32px;
+    margin-left: 12px;
+    margin-right: 12px;
+    display: flex;
+  }
+
+  &__graphical {
+    margin-top: 9px;
+    width: 260px;
+    height: 83px;
+    background-image: url("../image/chart.svg");
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+}
+
+.numerical__logo {
+  width: 32px;
+  height: 32px;
+  background-image: url("../image/Bitcoin.svg");
+  background-size: cover;
+}
+
+.cripto-text-name {
+  width: 94px;
+  height: 32px;
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+
+  &__cripto-name-one {
+    color: @text-color;
+    font-family: @font-single;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  &__cripto-name-two {
+    color: @text-color-dashboard-one;
+    font-family: @font-single;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+  }
+}
+
+.cripto-amount {
+  width: 102px;
+  display: flex;
+  font-family: @font-single;
+  flex-direction: column;
+  text-align: right;
+
+  &__amount-one {
+    color: @text-color;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+  }
+
+  &__amount-two {
+    color: @text-color-dashboard-one;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+  }
+}
+
+.score-graphical {
+  display: flex;
+  &__price {
+    font-family: @font-single;
+    color: @text-color-dashboard-one;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+    width: 88px;
+  }
+
+  &__info {
+    margin-left: 80px;
+    width: 18px;
+    height: 18px;
+    background-image: url("../image/information.svg");
+    background-size: cover;
+  }
+}
+
+.difference {
+  display: flex;
+  margin-left: 8px;
+
+  &__icon {
+    width: 16px;
+    height: 16px;
+    background-image: url("../image/caret-sell.svg");
+    background-size: cover;
+  }
+
+  &__text {
+    font-family: @font-single;
+    color: @text-color-dashboard-different;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

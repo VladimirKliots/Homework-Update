@@ -1,0 +1,96 @@
+.header {
+  width: 1366px;
+  height: 56px;
+  background: @languages-bg-color;
+  display: flex;
+}
+
+.logo {
+  width: 127px;
+  height: 28px;
+  margin-top: 10px;
+  margin-left: 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: @font-single;
+
+  &__text {
+    font-family: @font-single;
+    color: @h1-bg-color;
+    font-size: 12px;
+    font-weight: 900;
+    margin-left: 11px;
+    width: 88px;
+    height: 10px;
+  }
+
+  &__image {
+    width: 28px;
+    height: 28px;
+    background-image: url("../image/logo.svg") ;
+    background-size: cover;
+  }
+}
+
+.swap-one {
+  width: 107px;
+  height: 32px;
+  margin-top: 12px;
+  margin-left: 613px;
+  display: flex;
+  cursor: pointer;
+  background-color: @fields-bg-color;
+  border-radius: 4px;
+
+  &__image {
+    margin-top: 4px;
+    width: 24px;
+    height: 24px;
+    background-image: url("../image/swap.svg") ;
+    background-size: cover;
+    margin-left: 20px;
+  }
+
+  &__text {
+    margin-top: 8px;
+    font-family: @font-single;
+    color: @text-color;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 6px;
+    width: 35px;
+    height: 16px;
+  }
+}
+
+.swap-two {
+  display: flex;
+  cursor: pointer;
+  width: 107px;
+  height: 32px;
+  margin-top: 12px;
+  margin-left: 121px;
+  background-color: @fields-bg-color;
+  border-radius: 4px;
+
+  &__image {
+    margin-top: 4px;
+    width: 24px;
+    height: 24px;
+    background-image: url("../image/swap.svg") ;
+    background-size: cover;
+    margin-left: 20px;
+  }
+
+  &__text {
+    margin-top: 8px;
+    font-family: @font-single;
+    color: @text-color;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 6px;
+    width: 35px;
+    height: 16px;
+  }
+}
