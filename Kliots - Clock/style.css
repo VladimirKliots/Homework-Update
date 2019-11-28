@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-weight: 700;
+    font-stretch: ultra-expanded;
+    font-family: ‘Lucida Console’, Monaco, monospace;
+}
+
+#hours{
+    color: #2b1e45;
+}
+#minutes{
+    color: #3b314f;
+}
+#seconds{
+    color: #6a5f82;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200px;
+    background-color: #e3dfed;
+}
+
+
+
+.dots{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    color: #b0a5c7;
+}
+
