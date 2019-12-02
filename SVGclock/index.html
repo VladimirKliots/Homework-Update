@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset=utf-8">
+    <title>Clocks SVG</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="clock-container">
+    <svg id="clock" viewBox="0 0 100 100">
+        <circle id="face" cx="50" cy="50" r="45" style="fill:rgba(0,0,0,0.1)"/>
+        <g id="hands">
+            <line id="hours" x1="50" y1="50" x2="50" y2="25" style="stroke: red" />
+            <line id="minutes" x1="50" y1="50" x2="50" y2="20" style="stroke: blue"/>
+            <line id="seconds" x1="50" y1="50" x2="50" y2="13" style="stroke: black" />
+            <line x1="90" y1="48" x2="90" y2="52" style="stroke: black" />
+            <!--                    число 9 на циферблате-->
+            <line x1="8" y1="48" x2="8" y2="53" style="stroke: black" />
+            <line x1="13" y1="48" x2="10" y2="53" style="stroke: black" />
+            <line x1="10" y1="48" x2="13" y2="53" style="stroke: black" />
+            <!--                    число 6 на циферблате-->
+            <line x1="53" y1="90" x2="53" y2="85" style="stroke: black" />
+            <line x1="50" y1="90" x2="51" y2="85" style="stroke: black" />
+            <line x1="50" y1="90" x2="49" y2="85" style="stroke: black" />
+            <!--                    число 12 на цыферблате-->
+            <line x1="45" y1="10" x2="48" y2="15" style="stroke: black" />
+            <line x1="48" y1="10" x2="45" y2="15" style="stroke: black" />
+            <line x1="52" y1="10" x2="52" y2="15" style="stroke: black" />
+            <line x1="50" y1="10" x2="50" y2="15" style="stroke: black" />
+            <!--                    число 3 на цыферблате-->
+            <line x1="90" y1="47" x2="90" y2="52" style="stroke: black" />
+            <line x1="92" y1="47" x2="92" y2="52" style="stroke: black" />
+            <line x1="88" y1="47" x2="88" y2="52" style="stroke: black" />
+        </g>
+    </svg>
+</div>
+<script src="init.js"></script>
+</body>
+</html>
