@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background: black;
+}
+#canvas{
+    background: black;
+    display: block;
+    align-items: center;
+    margin-left: 30%;
+}
