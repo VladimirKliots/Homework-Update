@@ -1,0 +1,7 @@
+.main-logo{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: aquamarine;
+}
